@@ -1,0 +1,2 @@
+# hmg-repo
+static hmg
